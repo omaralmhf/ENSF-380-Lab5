@@ -1,4 +1,7 @@
+package edu.ucalgary.oop;
+
 public class Car {
+
 	private String model;
 	private Driver driver;
 	private Engine engine;
